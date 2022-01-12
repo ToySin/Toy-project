@@ -1,0 +1,10 @@
+C:\Users\toysi\source\repos\씨앗키우기\씨앗키우기\bin\Debug\씨앗키우기.exe.config
+C:\Users\toysi\source\repos\씨앗키우기\씨앗키우기\bin\Debug\씨앗키우기.exe
+C:\Users\toysi\source\repos\씨앗키우기\씨앗키우기\bin\Debug\씨앗키우기.pdb
+C:\Users\toysi\source\repos\씨앗키우기\씨앗키우기\obj\Debug\씨앗키우기.Form1.resources
+C:\Users\toysi\source\repos\씨앗키우기\씨앗키우기\obj\Debug\씨앗키우기.Properties.Resources.resources
+C:\Users\toysi\source\repos\씨앗키우기\씨앗키우기\obj\Debug\씨앗키우기.csproj.GenerateResource.cache
+C:\Users\toysi\source\repos\씨앗키우기\씨앗키우기\obj\Debug\씨앗키우기.csproj.CoreCompileInputs.cache
+C:\Users\toysi\source\repos\씨앗키우기\씨앗키우기\obj\Debug\씨앗키우기.exe
+C:\Users\toysi\source\repos\씨앗키우기\씨앗키우기\obj\Debug\씨앗키우기.pdb
+C:\Users\toysi\source\repos\씨앗키우기\씨앗키우기\obj\Debug\씨앗키우기.csprojAssemblyReference.cache
